@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CompensationPattern
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: USER
+Implementation-Vendor-Id: com.camel.compensation
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CompensationPattern
+Created-By: Maven Integration for Eclipse
+
